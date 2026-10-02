@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sloty-s-bonusom484.github.io/sitemap.xml
